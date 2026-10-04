@@ -1,0 +1,172 @@
+{
+  "decks": [
+    {
+      "id": "deck-web-dev",
+      "title": "Web & Programming Essentials",
+      "icon": "💻",
+      "cards": [
+        {
+          "id": "c-web-1",
+          "front": "What does HTML stand for?",
+          "back": "HyperText Markup Language",
+          "hint": "The foundational markup language for structuring web documents.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-2",
+          "front": "What does CSS stand for?",
+          "back": "Cascading Style Sheets",
+          "hint": "Controls layout, colors, typography, and visual presentation.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-3",
+          "front": "What does HTTP stand for?",
+          "back": "Hypertext Transfer Protocol",
+          "hint": "The communication protocol used for transmitting web resources.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-4",
+          "front": "What is the DOM in JavaScript?",
+          "back": "Document Object Model",
+          "hint": "An in-memory tree representation of the HTML document accessible to JS.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-5",
+          "front": "Which keyword declares a block-scoped constant in JavaScript?",
+          "back": "const",
+          "hint": "Prevents variable identifier reassignment.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-6",
+          "front": "What does API stand for?",
+          "back": "Application Programming Interface",
+          "hint": "A set of definitions and protocols for building and integrating software.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-7",
+          "front": "What is an asynchronous operation in JavaScript?",
+          "back": "An operation running in the background without blocking the main UI thread",
+          "hint": "Commonly executed using Promises and async/await syntax.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-8",
+          "front": "What HTTP status code represents 'Not Found'?",
+          "back": "404",
+          "hint": "Standard client error indicating the resource could not be located.",
+          "mastered": false
+        },
+        {
+          "id": "c-web-9",
+          "front": "What is the function of the <dialog> element in HTML5?",
+          "back": "Represents a modal or non-modal dialog box or interactive overlay",
+          "hint": "Features native focus trapping and backdrop styling via .showModal().",
+          "mastered": false
+        },
+        {
+          "id": "c-web-10",
+          "front": "What does JSON stand for?",
+          "back": "JavaScript Object Notation",
+          "hint": "Lightweight format for storing and exchanging structured data.",
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "id": "deck-science",
+      "title": "Biology & Life Sciences",
+      "icon": "🔬",
+      "cards": [
+        {
+          "id": "c-sci-1",
+          "front": "What is known as the powerhouse of the cell?",
+          "back": "Mitochondria",
+          "hint": "Generates most of the chemical energy needed by the cell (ATP).",
+          "mastered": false
+        },
+        {
+          "id": "c-sci-2",
+          "front": "What process do plants use to convert sunlight into food?",
+          "back": "Photosynthesis",
+          "hint": "Combines carbon dioxide, water, and sunlight to form glucose.",
+          "mastered": false
+        },
+        {
+          "id": "c-sci-3",
+          "front": "What molecule carries hereditary genetic instructions in living organisms?",
+          "back": "DNA (Deoxyribonucleic Acid)",
+          "hint": "Structured as a double helix composed of nucleotides.",
+          "mastered": false
+        },
+        {
+          "id": "c-sci-4",
+          "front": "Which blood cells transport oxygen throughout the human body?",
+          "back": "Red Blood Cells (Erythrocytes)",
+          "hint": "Contain the iron-rich protein hemoglobin.",
+          "mastered": false
+        },
+        {
+          "id": "c-sci-5",
+          "front": "What is the fundamental functional unit of the nervous system?",
+          "back": "Neuron",
+          "hint": "Transmits electrical and chemical signals across synapses.",
+          "mastered": false
+        },
+        {
+          "id": "c-sci-6",
+          "front": "What organ filters waste products from blood to produce urine?",
+          "back": "Kidneys",
+          "hint": "Contains millions of microscopic filtering units called nephrons.",
+          "mastered": false
+        }
+      ]
+    },
+    {
+      "id": "deck-geography",
+      "title": "World Geography & Capitals",
+      "icon": "🌍",
+      "cards": [
+        {
+          "id": "c-geo-1",
+          "front": "What is the capital city of Japan?",
+          "back": "Tokyo",
+          "hint": "The world's most populous metropolitan area.",
+          "mastered": false
+        },
+        {
+          "id": "c-geo-2",
+          "front": "What is the capital city of Australia?",
+          "back": "Canberra",
+          "hint": "Purpose-built capital located between Sydney and Melbourne.",
+          "mastered": false
+        },
+        {
+          "id": "c-geo-3",
+          "front": "What is the capital city of Canada?",
+          "back": "Ottawa",
+          "hint": "Situated on the south bank of the Ottawa River in Ontario.",
+          "mastered": false
+        },
+        {
+          "id": "c-geo-4",
+          "front": "What is the highest mountain peak above sea level on Earth?",
+          "back": "Mount Everest",
+          "hint": "Located in the Himalayas (8,848m).",
+          "mastered": false
+        },
+        {
+          "id": "c-geo-5",
+          "front": "Which is the largest ocean by surface area on Earth?",
+          "back": "Pacific Ocean",
+          "hint": "Covers over 30% of the Earth's surface.",
+          "mastered": false
+        }
+      ]
+    }
+  ]
+}

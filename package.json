@@ -1,0 +1,19 @@
+{
+  "name": "study-buddy-app",
+  "version": "1.0.0",
+  "description": "A simple, distraction-free study companion with Pomodoro timer, 3D flashcards, and interactive quiz generator.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "pomodoro",
+    "study",
+    "flashcards",
+    "quiz",
+    "productivity"
+  ],
+  "author": "StudyBuddy",
+  "license": "MIT"
+}
